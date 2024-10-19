@@ -26,7 +26,8 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" style="width: 200px; height: 100px;" />
     <img src="icons\file-type-dvc.svg" alt="DVC" style="width: 200px; height: 100px;" />
   </div>
-
+<details>
+  <summary>All Tools</h3></summary>
   <!-- Libraries & Frameworks -->
   <H2>Libraries & Frameworks</H2>
   <div style="text-align: center;">
@@ -70,7 +71,7 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" style="width: 200px; height: 100px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="width: 200px; height: 100px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="Git-lab" style="width: 200px; height: 100px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Git-lab" style="width: 200px; height: 100px;" />
   </div>
 
   <!-- Containerization & Virtualization -->
@@ -130,14 +131,8 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="MATERIAL-UI" style="width: 200px; height: 100px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" alt="WEBFLOW" style="width: 200px; height: 100px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" alt="FRAMER" style="width: 200px; height: 100px;" />
-    
-
-
-
-
-
-
 </div>
+</details>
 
 
 ## 🌱 What I'm Currently Working On
