@@ -71,7 +71,7 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" style="width: 200px; height: 100px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="width: 200px; height: 100px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Git-lab" style="width: 200px; height: 100px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="Git-lab" style="width: 200px; height: 100px;" />
   </div>
 
   <!-- Containerization & Virtualization -->
