@@ -14,18 +14,18 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
 
 ### Programming Languages
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 150px; height: auto; margin: 10px;" />
-  <img src="icons/r-programming-language-icon.svg" alt="R" style="width: 150px; height: auto; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" style="width: 150px; height: auto; margin: 10px;" />
-  <img src="icons/c-programming.svg" alt="C" style="width: 150px; height: auto; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 70px; height: auto; margin: 10px;" />
+  <img src="icons/r-programming-language-icon.svg" alt="R" style="width: 70px; height: auto; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" style="width: 70px; height: auto; margin: 10px;" />
+  <img src="icons/c-programming.svg" alt="C" style="width: 70px; height: auto; margin: 10px;" />
 </div>
 
 ### Version Control Systems
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 150px; height: auto; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 150px; height: auto; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" style="width: 150px; height: auto; margin: 10px;" />
-  <img src="icons/file-type-dvc.svg" alt="DVC" style="width: 150px; height: auto; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 70px; height: auto; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 70px; height: auto; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" style="width: 70px; height: auto; margin: 10px;" />
+  <img src="icons/file-type-dvc.svg" alt="DVC" style="width: 70px; height: auto; margin: 10px;" />
 </div>
 
 <details>
@@ -33,82 +33,82 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
 
   ### Libraries & Frameworks
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" alt="FastAPI" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/bs4.png" alt="bs4" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/Scrapy--Streamline-Simple-Icons.svg" alt="scrapy" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/SpaCy_logo.svg" alt="SpaCy" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/hugging-face.svg" alt="HuggingFace" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/opencv-icon.svg" alt="OpenCV" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/yolo.svg" alt="Yolo" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/selenium.svg" alt="Selenium" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" alt="FastAPI" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/bs4.png" alt="bs4" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/Scrapy--Streamline-Simple-Icons.svg" alt="scrapy" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/SpaCy_logo.svg" alt="SpaCy" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/hugging-face.svg" alt="HuggingFace" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/opencv-icon.svg" alt="OpenCV" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/yolo.svg" alt="Yolo" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/selenium.svg" alt="Selenium" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
   ### MLOps Tools
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="icons/MLflow-Logo.svg" alt="MLFlow" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/kubeflow.svg" alt="Kubeflow" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/tfx.png" alt="TFX" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="icons/MLflow-Logo.svg" alt="MLFlow" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/kubeflow.svg" alt="Kubeflow" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/tfx.png" alt="TFX" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
   ### Databases & Data Storage
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
   ### CI/CD Tools
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
   ### Containerization & Virtualization
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="Helm" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" alt="Vmware-vsphere" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="Helm" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" alt="Vmware-vsphere" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
   ### Cloud Services and Hosting
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="Heroku" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="Heroku" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
   ### Scripting and Automation
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="Powershell" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="Powershell" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
   ### Monitoring and Logging
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/CloudWatch.svg" alt="CloudWatch" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/CloudWatch.svg" alt="CloudWatch" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
   ### Visualization Tools
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="icons/tableau.svg" alt="Tableau" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/power-bi.svg" alt="PowerBI" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="icons/seaborn-1.svg" alt="Seaborn" style="width: 150px; height: auto; margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" style="width: 150px; height: auto; margin: 10px;" />
+    <img src="icons/tableau.svg" alt="Tableau" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/power-bi.svg" alt="PowerBI" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="icons/seaborn-1.svg" alt="Seaborn" style="width: 70px; height: auto; margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 </details>
 
