@@ -1,8 +1,11 @@
-# Hi there, I'm Mohammad Affan! 👋 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mohammad%20Affan%20&fontAlignY=50&color=gradient)
 
 I'm a motivated DevOps/MLOps engineer with a strong background in Python development and data science. I enjoy building CI/CD pipelines, automating infrastructure, and creating end-to-end machine learning workflows for model deployment and monitoring. My passion lies in problem-solving, automation, and collaborating across teams to deliver efficient solutions.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=affanm16&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammad Affan" /> </p>
+
 ## 📈 GitHub Stats
+
 <div style="text-align:center;">
   <a href="https://github.com/affanm16/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=affanm16&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged_percentage&theme=dark&ring_color=736cf4&show_owner=true&card_width=500&line_height=33&" style="max-width: 100%; height: auto;" />
@@ -10,9 +13,21 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanm16&size_weight=0.5&count_weight=0.5&langs_count=5&theme=radical&title_color=2f80ed&layout=donut-vertical" style="max-width: 100%; height: auto;" />
 </div>
 
+## 🔥 Streak Stats
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=affanm16&theme=algolia" alt="Mohammad Affan" /></p>
+
+<br>
+<br>
+
+## 🏆 Git profile Trophies
+
+<p align="center"> <a href="https://github.com/affanm16/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affanm16&layout=compact&theme=algolia" alt="Mohammad Affan" /></a> </p>
+
 ## 🔧 Technical Skills
 
 ### Programming Languages
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 70px; height: auto; margin: 10px;" />
   <img src="icons/r-programming-language-icon.svg" alt="R" style="width: 70px; height: auto; margin: 10px;" />
@@ -21,6 +36,7 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
 </div>
 
 ### Version Control Systems
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 70px; height: auto; margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 70px; height: auto; margin: 10px;" />
@@ -31,7 +47,8 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
 <details>
   <summary>All Tools</summary>
 
-  ### Libraries & Frameworks
+### Libraries & Frameworks
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" alt="FastAPI" style="width: 70px; height: auto; margin: 10px;" />
@@ -49,7 +66,8 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
     <img src="icons/selenium.svg" alt="Selenium" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
-  ### MLOps Tools
+### MLOps Tools
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="icons/MLflow-Logo.svg" alt="MLFlow" style="width: 70px; height: auto; margin: 10px;" />
     <img src="icons/kubeflow.svg" alt="Kubeflow" style="width: 70px; height: auto; margin: 10px;" />
@@ -57,7 +75,8 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
-  ### Databases & Data Storage
+### Databases & Data Storage
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" style="width: 70px; height: auto; margin: 10px;" />
@@ -65,14 +84,16 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
-  ### CI/CD Tools
+### CI/CD Tools
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
-  ### Containerization & Virtualization
+### Containerization & Virtualization
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" style="width: 70px; height: auto; margin: 10px;" />
@@ -80,7 +101,8 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" alt="Vmware-vsphere" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
-  ### Cloud Services and Hosting
+### Cloud Services and Hosting
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="Heroku" style="width: 70px; height: auto; margin: 10px;" />
@@ -88,21 +110,24 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
-  ### Scripting and Automation
+### Scripting and Automation
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="Powershell" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
-  ### Monitoring and Logging
+### Monitoring and Logging
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" style="width: 70px; height: auto; margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" style="width: 70px; height: auto; margin: 10px;" />
     <img src="icons/CloudWatch.svg" alt="CloudWatch" style="width: 70px; height: auto; margin: 10px;" />
   </div>
 
-  ### Visualization Tools
+### Visualization Tools
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="icons/tableau.svg" alt="Tableau" style="width: 70px; height: auto; margin: 10px;" />
     <img src="icons/power-bi.svg" alt="PowerBI" style="width: 70px; height: auto; margin: 10px;" />
@@ -119,17 +144,21 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
 - Working on projects related to both MLOps and DevOps, focusing on automation, scalability, and cloud-based solutions.
 
 ## 💡 Projects
+
 ### Real Estate Analysis Website
+
 - Developed a Real Estate Analysis website using Streamlit.
 - Web scraped data of over 10k properties using BeautifulSoup and Selenium.
 - Created a price prediction module and an analytics module to gain actionable insights interactively.
 
 ### NYC Taxi Trip Challenge - End-to-End MLOps Project
+
 - Implemented version control with GitHub and DVC.
 - Tracked model development with MLflow and utilized FastAPI for testing.
 - Designed a CI/CD pipeline and deployed on AWS ECS for scalable deployment.
 
 ## 🌍 Connect with Me
+
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/mohammad-affan-wali">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%; height: auto;" />
