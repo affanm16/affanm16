@@ -12,6 +12,10 @@ I'm a motivated DevOps/MLOps engineer with a strong background in Python develop
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanm16&size_weight=0.5&count_weight=0.5&langs_count=5&theme=radical&title_color=2f80ed&layout=donut-vertical" style="max-width: 100%; height: auto;" />
 </div>
+## 🔥 Streak CS
+<div>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679f582dd7c9b4cc8b344669?variant=dark" alt="roadmap.sh"/></a>
+</div>
 
 ## 🔥 Streak Stats
 
